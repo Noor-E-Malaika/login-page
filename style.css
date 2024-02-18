@@ -1,0 +1,19 @@
+.navbar-main {
+    background-color: rgb(165, 129, 199) !important;
+    color: black;
+    font-weight: 500;
+}
+
+.navbar-sub {
+    display: flex;
+    justify-content: space-around;
+}
+
+.slider {
+    height: 500px;
+    z-index: 0;
+}
+
+.text-color {
+    color: white !important;
+}
